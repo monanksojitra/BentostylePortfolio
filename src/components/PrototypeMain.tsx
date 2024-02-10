@@ -13,7 +13,7 @@ const PrototypeMain = () => {
             Product develop
           </p>
         </div>
-        <div className="h-5 md:h-9 md:mr-2 aspect-square rounded-full bg-red-400 flex items-center justify-center">
+        <div className="h-5 md:h-9 md:mr-2 aspect-square rounded-full bg-red-400 flex items-center justify-center cursor-pointer">
           <img src={crossarrow} alt="" className="h-2.5 md:h-4 aspect-square" />
         </div>
       </div>

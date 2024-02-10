@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className="bg-dark-500 px-4 py-5 md:py-11 md:px-10 md:mt-5 rounded-xl outline  outline-dark-400 col-span-2 order-1">
       <div className="flex flex-col md:w-full justify-between md:items-center md:flex-row">
-        <div className="flex items-center justify-center gap-x-2 md:gap-x-3 bg-dark-600 h-5 md:h-7 rounded-xl w-fit px-3 md:order-2">
+        <div className="flex items-center justify-center gap-x-2 md:gap-x-3 bg-dark-600 h-5 md:h-7 rounded-xl w-fit px-3 md:order-2 cursor-pointer">
           <div className="h-2 aspect-square rounded-full bg-red-400"></div>
           <p className="text-[9px] md:text-xs text-first-200 tracking-wider md:tracking-[1.8px] ">
             AVAILABLE FOR JOB
@@ -31,15 +31,15 @@ const Hero = () => {
           </div>
           <div className="flex mt-3 gap-2 lg:w-full md:my-6">
             <div className="flex text-xs md:text-base md:font-semibold">
-              <div className="h-8 md:h-10 flex items-center justify-center rounded-tr-sm rounded-br-sm text-first text-center bg-red-400 px-2 rounded-md btn">
+              <div className="h-8 md:h-10 flex items-center justify-center rounded-tr-sm rounded-br-sm text-first text-center bg-red-400 px-2 rounded-md btn cursor-pointer">
                 <p> Hire me</p>
               </div>
 
-              <div className="h-8 md:h-10 flex items-center justify-center rounded-tl-sm rounded-bl-sm text-first text-center bg-red-400 px-2 md:px-3 rounded-md btn">
+              <div className="h-8 md:h-10 flex items-center justify-center rounded-tl-sm rounded-bl-sm text-first text-center bg-red-400 px-2 md:px-3 rounded-md btn cursor-pointer">
                 <img src={plus} alt="" className="h-2 md:h-3 aspect-square" />
               </div>
             </div>
-            <div className="flex gap-[1px] text-xs md:text-base">
+            <div className="flex gap-[1px] text-xs md:text-base cursor-pointer">
               <button
                 type="button"
                 className="h-8 md:h-10 rounded-tr-sm rounded-br-sm text-first  bg-dark-600 px-2 rounded-md outline outline-1 outline-dark-400 tracking-tight md:px-4"

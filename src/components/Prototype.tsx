@@ -30,7 +30,7 @@ const Prototype = () => {
                 {item.prototypetype}
               </p>
             </div>
-            <div className="h-5 md:h-9 aspect-square rounded-full bg-red-400 flex items-center justify-center">
+            <div className="h-5 cursor-pointer md:h-9 aspect-square rounded-full bg-red-400 flex items-center justify-center">
               <img
                 src={crossarrow}
                 alt=""
