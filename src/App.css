@@ -1,0 +1,11 @@
+.btn {
+  background: #e63e21;
+  border: 1px solid #212121;
+  transition: all 0.3s;
+  box-shadow: 3px 3px 10px #e4643f, -3px -3px 10px #e4643f;
+}
+
+.btn:active {
+  color: #fff;
+  box-shadow: inset 4px 4px 12px #e4643f, inset -4px -4px 12px #e4643f;
+}
