@@ -9,3 +9,86 @@
   color: #fff;
   box-shadow: inset 4px 4px 12px #e4643f, inset -4px -4px 12px #e4643f;
 }
+
+.colorgredtr {
+  background-image: linear-gradient(
+    245deg,
+    hsl(13deg 75% 57%) 0%,
+    hsl(14deg 68% 55%) 0%,
+    hsl(14deg 61% 52%) 0%,
+    hsl(14deg 54% 50%) 0%,
+    hsl(14deg 54% 48%) -1%,
+    hsl(14deg 53% 45%) 0%,
+    hsl(14deg 52% 43%) 0%,
+    hsl(14deg 51% 41%) 0%,
+    hsl(14deg 49% 38%) 0%,
+    hsl(14deg 48% 36%) 0%,
+    hsl(14deg 47% 34%) 1%,
+    hsl(14deg 45% 32%) 2%,
+    hsl(14deg 43% 30%) 3%,
+    hsl(14deg 41% 27%) 4%,
+    hsl(14deg 39% 25%) 5%,
+    hsl(14deg 36% 23%) 7%,
+    hsl(14deg 33% 21%) 9%,
+    hsl(14deg 29% 19%) 11%,
+    hsl(14deg 25% 17%) 15%,
+    hsl(14deg 19% 15%) 20%,
+    hsl(14deg 11% 13%) 27%,
+    hsl(0deg 0% 11%) 43%
+  );
+}
+.colorgredtrs {
+  background-image: linear-gradient(
+    220deg,
+    hsl(13deg 75% 57%) 0%,
+    hsl(13deg 71% 56%) 0%,
+    hsl(13deg 67% 54%) 0%,
+    hsl(13deg 64% 53%) -1%,
+    hsl(13deg 60% 52%) -1%,
+    hsl(13deg 56% 50%) -1%,
+    hsl(13deg 56% 49%) -1%,
+    hsl(13deg 55% 47%) -1%,
+    hsl(13deg 55% 46%) 0%,
+    hsl(13deg 55% 44%) 0%,
+    hsl(13deg 54% 42%) 0%,
+    hsl(13deg 54% 40%) 1%,
+    hsl(13deg 53% 39%) 1%,
+    hsl(13deg 53% 37%) 2%,
+    hsl(13deg 52% 35%) 3%,
+    hsl(13deg 51% 32%) 4%,
+    hsl(12deg 49% 30%) 6%,
+    hsl(12deg 47% 27%) 8%,
+    hsl(12deg 44% 24%) 12%,
+    hsl(11deg 40% 21%) 16%,
+    hsl(10deg 31% 17%) 23%,
+    hsl(0deg 0% 11%) 38%
+  );
+}
+
+.colorgredbl {
+  background-image: linear-gradient(
+    50deg,
+    hsl(13deg 75% 57%) 0%,
+    hsl(14deg 68% 55%) 0%,
+    hsl(14deg 61% 52%) 0%,
+    hsl(14deg 54% 50%) 0%,
+    hsl(14deg 54% 48%) -1%,
+    hsl(14deg 53% 45%) 0%,
+    hsl(14deg 52% 43%) 0%,
+    hsl(14deg 51% 41%) 0%,
+    hsl(14deg 49% 38%) 0%,
+    hsl(14deg 48% 36%) 0%,
+    hsl(14deg 47% 34%) 1%,
+    hsl(14deg 45% 32%) 2%,
+    hsl(14deg 43% 30%) 3%,
+    hsl(14deg 41% 27%) 4%,
+    hsl(14deg 39% 25%) 5%,
+    hsl(14deg 36% 23%) 7%,
+    hsl(14deg 33% 21%) 9%,
+    hsl(14deg 29% 19%) 11%,
+    hsl(14deg 25% 17%) 15%,
+    hsl(14deg 19% 15%) 20%,
+    hsl(14deg 11% 13%) 27%,
+    hsl(0deg 0% 11%) 43%
+  );
+}
