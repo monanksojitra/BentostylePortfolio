@@ -8,7 +8,7 @@ To set up this portfolio site locally, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/portfolio-site.git
+   git clone https://github.com/monanksojitra/BentostylePortfolio.git
    ```
 
 2. **Navigate to the Directory**:
